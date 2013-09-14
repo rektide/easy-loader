@@ -6,7 +6,8 @@
 		"scripts": ["easy-loader.js"]
 	},
 	"permissions": [
-		"tabs", "experimental"
+		"tabs",
+		"processes"
 	],
 	"browser_action": {
 		"default_icon": {
