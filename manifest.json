@@ -1,0 +1,24 @@
+{
+	"name": "easy-loader",
+	"description": "Kill Chrome Tab Processes During Startup",
+	"version": "1.0.0",
+	"background": {
+		"scripts": ["easy-loader.js"]
+	},
+	"permissions": [
+		"tabs", "experimental"
+	],
+	"browser_action": {
+		"default_icon": {
+			"19": "icons/radacina_chopper_tank.svn",
+			"38": "icons/radacina_chopper_tank.svg"
+		},
+		"default_title": "Easy-Loader"
+	},
+	"icons": {
+		"16": "icons/radacina_chopper_tank.svg",
+		"48": "icons/radacina_chopper_tank.svg",
+		"128": "icons/radacina_chopper_tank.svg"
+	},
+	"manifest_version": 2
+}
