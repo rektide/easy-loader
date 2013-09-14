@@ -1,6 +1,6 @@
 # Easy Loader
 
-![Easy Loader chopper tank with flames](https://github.com/rektide/easy-loader/raw/master/icons/radacina_chopper_tank.svg "Chopper tank with flames")
+![Easy Loader chopper tank with flames](https://rektide.github.io/easy-loader/icons/radacina_chopper_tank.svg "Chopper tank with flames")
 
 Opening an existing Chrome session with a lot of tabs can deeply mire a system down. Easy Loader kills running tabs, keeping your information superhighway free of legacy baggage you can't bring yourself to close out entirely.
 
